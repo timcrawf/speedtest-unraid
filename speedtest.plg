@@ -5,8 +5,8 @@
 A simple plugin to add speedtest-cli to unraid
 -->
 
-<FILE Name="/boot/packages/pysetuptools.tar.gz" Run="upgradepkg --install-new">
-    <URL>https://slackbuilds.org/slackbuilds/14.1/python/pysetuptools.tar.gz</URL>
+<FILE Name="/boot/packages/speedtest-cli-2.1.2-x86_64-3cf.txz" Run="upgradepkg --install-new">
+    <URL>https://slack.conraid.net/repository/slackware64-current/speedtest-cli/speedtest-cli-2.1.2-x86_64-3cf.txz</URL>
 </FILE>
 
 </PLUGIN>
